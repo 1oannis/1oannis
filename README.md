@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**1oannis/1oannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ioannis, a passionate software developer from Germany with Greek roots and a love for progressive open-source software. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been coding for 3 years now and gathered experience mainly in designing and engineering microservices and web apps. I enjoy working on modern, secure and performant software and believe in the power of collaboration and knowledge sharing.
+
+## Get in Touch
+
+I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me via [email](mailto:thio1011@h-ka.de) or connect with me on [LinkedIn](https://www.linkedin.com/in/ioannis-theodosiadis).
+
+Let's build something amazing together!
