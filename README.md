@@ -9,11 +9,12 @@ I'm Ioannis, a passionate software developer from Germany with Greek roots and a
 
 I have been coding for 3 years now and gathered experience mainly in designing and engineering microservices and web apps. I enjoy working on modern, secure and performant software and believe in the power of collaboration and knowledge sharing.
 
-## Cool Open-Source Projects
+## Open-Source Projects Worth Seeing
 
 Software | Description | Link
 ---------|-------------|-----
 Keycloak | Identity and access management system with frequent updates and patches. Serves the latest security standards. Widely used in the corporate world. | [![Keycloak](https://img.shields.io/badge/-Keycloak-white?style=flat-square&logo=Keycloak&logoColor=blue)](https://github.com/keycloak/keycloak)
+Nextcloud | Self-hosted cloud storage for files, calendars, contacts, mail & more from any device. Fully customizable, secure and many governance options. | [![Nextcloud](https://img.shields.io/badge/-Nextcloud-white?style=flat-square&logo=Nextcloud&logoColor=blue)](https://github.com/nextcloud/docker)
 
 ## Get in Touch
 
