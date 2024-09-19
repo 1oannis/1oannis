@@ -15,6 +15,7 @@ Software | Description | Link
 ---------|-------------|-----
 Keycloak | Identity and access management system with frequent updates and patches. Serves the latest security standards. Widely used in the corporate world. | [![Keycloak](https://img.shields.io/badge/-Keycloak-white?style=flat-square&logo=Keycloak&logoColor=blue)](https://github.com/keycloak/keycloak)
 Nextcloud | Self-hosted cloud storage for files, calendars, contacts, mail & more from any device. Fully customizable, secure and many governance options. | [![Nextcloud](https://img.shields.io/badge/-Nextcloud-white?style=flat-square&logo=Nextcloud&logoColor=blue)](https://github.com/nextcloud/docker)
+TensorFlow | Machine learning framework developed by Google that allows developers to build, train, and deploy machine learning models across various platforms. It supports deep learning, neural networks, and a wide range of AI applications. | [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=Tensorflow)](https://github.com/nextcloud/docker)
 
 ## Get in Touch
 
