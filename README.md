@@ -17,6 +17,12 @@ Keycloak | Identity and access management system with frequent updates and patch
 Nextcloud | Self-hosted cloud storage for files, calendars, contacts, mail & more from any device. Fully customizable, secure and many governance options. | [![Nextcloud](https://img.shields.io/badge/-Nextcloud-white?style=flat-square&logo=Nextcloud&logoColor=blue)](https://github.com/nextcloud/docker)
 TensorFlow | Machine learning framework developed by Google that allows developers to build, train, and deploy machine learning models across various platforms. It supports deep learning, neural networks, and a wide range of AI applications. | [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=Tensorflow)](https://github.com/tensorflow/tensorflow)
 
+## Amazing Repositories
+
+What? | Link
+------|-----
+Improve your docker compose files. | [![Docker](https://img.shields.io/badge/-AwesomeCompose-white?style=flat-square&logo=docker&logoColor=blue)](https://github.com/docker/awesome-compose)
+
 ## Get in Touch
 
 I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me.
