@@ -1,33 +1,69 @@
 <!--
-This markdown file can be previewed in VS Code by pressing Crtl+Shift+V
+This markdown file can be previewed in VS Code by pressing Ctrl+Shift+V.
 -->
-# 👋 Hi there
 
-I'm Ioannis, a passionate software developer from Germany with Greek roots and a love for progressive open-source software. Welcome to my GitHub profile!
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo.svg" alt="Ioannis Theodosiadis" width="160">
+  </picture>
+</p>
 
-## About Me
+<h1 align="center">Software &amp; Systems &mdash; architect and engineer</h1>
+<p align="center"><em>security &middot; deployment &middot; open source</em></p>
 
-I have been coding for 3 years now and gathered experience mainly in designing and engineering microservices and web apps. I enjoy working on modern, secure and performant software and believe in the power of collaboration and knowledge sharing.
+I pick architectures on purpose. Security and privacy are the floor, not a feature. I prefer open source, self-hosted, and decisions I can defend.
 
-## Open-Source Projects Worth Seeing
+## What I'm building
 
-Software | Description | Link
----------|-------------|-----
-Keycloak | Identity and access management system with frequent updates and patches. Serves the latest security standards. Widely used in the corporate world. | [![Keycloak](https://img.shields.io/badge/-Keycloak-white?style=flat-square&logo=Keycloak&logoColor=blue)](https://github.com/keycloak/keycloak)
-Nextcloud | Self-hosted cloud storage for files, calendars, contacts, mail & more from any device. Fully customizable, secure and many governance options. | [![Nextcloud](https://img.shields.io/badge/-Nextcloud-white?style=flat-square&logo=Nextcloud&logoColor=blue)](https://github.com/nextcloud/docker)
-TensorFlow | Machine learning framework developed by Google that allows developers to build, train, and deploy machine learning models across various platforms. It supports deep learning, neural networks, and a wide range of AI applications. | [![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=flat-square&logo=Tensorflow)](https://github.com/tensorflow/tensorflow)
+- **[budget-lens](https://github.com/1oannis/budget-lens)** &mdash; a self-hosted receipt scanner and expense tracker. Financial records shouldn't live on someone else's analytics pipeline.
+- **[camunda-compose](https://github.com/1oannis/camunda-compose)** &mdash; full Camunda 8 Self-Managed stack (Web Modeler, backups, the lot) you bring up with one `docker compose up`. Workflow engines shouldn't require a sales call.
+- **[EDPO-Project-FS26](https://github.com/cyrilgabriele/EDPO-Project-FS26)** &mdash; event-driven crypto-portfolio platform on Kafka + Spring Boot. Data Integrity, availability and fault tolerance as driving non-functional properties.
+- **[homepage](https://github.com/1oannis/homepage)** &mdash; the code behind [1oannis.com](https://1oannis.com).
 
-## Amazing Repositories
+## What I'm thinking about
 
-What? | Link
-------|-----
-Improve your docker compose files. | [![Docker](https://img.shields.io/badge/-AwesomeCompose-white?style=flat-square&logo=docker&logoColor=blue)](https://github.com/docker/awesome-compose)
+Privacy-preserving computation on fuzzy records. SSO architectures in workflow-heavy environments. The information-disorder side of AI in public discourse. Writing thesis-quality systems that stay maintainable after the deadline.
 
-## Get in Touch
+## Decisions I'm willing to defend
 
-I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me.
+> **Postgres over MongoDB** &mdash; unless the data is genuinely document-shaped.
+>
+> **Keycloak over rolling-your-own auth** &mdash; identity is the boring part you have to get right.
+>
+> **Docker Compose over Kubernetes** &mdash; until cardinality actually demands otherwise.
+>
+> **Self-hosted over SaaS** &mdash; where the data is mine.
+>
+> **Open source over closed** &mdash; unless there's a defensible reason, and "we already pay for it" isn't one.
 
-Let's build something amazing together!
+## Stack &amp; tools
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-theodosiadis)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/johnny._.waffles)
+I pick by workload, not by category.
+
+| When | I reach for | Why |
+| --- | --- | --- |
+| services | Spring Boot &middot; FastAPI | conservative on JVM, fast iteration in Python |
+| events | Kafka | persistence and replay built in |
+| UI | Next.js &middot; Svelte &middot; Tailwind | static-first, server-only when it matters |
+| deploy glue | Ansible &middot; Caddy | reproducible provisioning, TLS without surprises |
+| research | Python &middot; PyTorch &middot; Jupyter | optimized for the question, not the deploy |
+| simulation | NetLogo | when the system *is* the question |
+| writing | Typst | over Word, every time |
+
+Comfortable in Java, Kotlin, Python, TypeScript, C++.
+
+## OSS shoulders I stand on
+
+These shape how I build, not just what I import.
+
+- [Keycloak](https://github.com/keycloak/keycloak) &mdash; IAM done right
+- [Camunda](https://github.com/camunda/camunda) &mdash; open BPMN engine
+- [Nextcloud](https://github.com/nextcloud/server) &mdash; proof that self-hosted can be a daily driver
+- [Postgres](https://www.postgresql.org/) &mdash; the boring database that keeps winning
+- [Caddy](https://github.com/caddyserver/caddy) &mdash; TLS by default
+- [Ansible](https://github.com/ansible/ansible) &mdash; infra as code without a runtime
+
+## Elsewhere
+
+[1oannis.com](https://1oannis.com) &middot; [LinkedIn](https://www.linkedin.com/in/ioannis-theodosiadis)
